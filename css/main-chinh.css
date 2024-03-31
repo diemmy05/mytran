@@ -1,0 +1,51 @@
+
+.nhomcon1{
+    
+padding-left: 80px;
+    display: flex;
+   
+}
+.nhomcon2{
+    padding-left: 100px;
+  
+
+}
+.nhomcon3{
+    padding-left: 600px;
+}
+.nhomcon4{
+    padding-left: 30px;
+    padding-bottom: 60px;
+}
+.nhomcon5{
+padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+}
+
+.giua{
+    text-align: center;
+}
+
+.nhomp{
+    font-size: 16px;
+    font-family: "Lora", serif;
+    color: #555;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+.img-1001
+{
+	width: 280px; 
+	height: 205px;
+	border-top-left-radius:15px ;
+	border-top-right-radius:15px ;
+}
+.saik{
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "Lora", serif;
+    font-style: italic;
+    color: #242424;
+    margin-bottom: 0px;
+}
